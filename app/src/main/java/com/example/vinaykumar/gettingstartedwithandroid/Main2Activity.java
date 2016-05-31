@@ -18,5 +18,6 @@ public class Main2Activity extends AppCompatActivity {
         TextView textView= (TextView)findViewById(R.id.textView3);
         textView.setText(message);
         //this is a comment to change in git so it just a test
+        //just added another comment and commited agian
     }
 }
